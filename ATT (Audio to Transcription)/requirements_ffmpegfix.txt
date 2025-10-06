@@ -1,0 +1,4 @@
+openai-whisper==20231117
+imageio-ffmpeg>=0.4.9
+torch>=2.0.0; platform_system != 'Darwin' or platform_machine != 'arm64'
+torch>=2.1.0; platform_system == 'Darwin' and platform_machine == 'arm64'
