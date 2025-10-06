@@ -1,0 +1,19 @@
+---
+PROJECT DISADVANTAGES (CONS)
+Date/Time (IST): 2025-10-06 00:00:00 IST
+Date/Time (Local/CEST): 2025-10-06 18:11:38 CEST
+---
+
+The core disadvantages of this project are related to its complexity and demanding technical requirements:
+
+### I. Performance and Hardware Requirements
+* **Speed:** The project is relatively **slow** and processing a file can often take more than 10 minutes.
+* **Dependency on FFmpeg:** It strictly requires **FFmpeg** for media handling.
+* **Language Environment:** It requires **Python** to be installed and properly configured.
+
+### II. Setup and Usability Barrier
+* **Complex Installation:** The setup process can be too **hard for newcomers** and users without any coding knowledge.
+* **Environment Variables:** In some scenarios, users are required to manually set up **system environment variables** using the "Edit The System Environment Variables" option in the control panel.
+* **Need for Developer Tools:** A code editor like **VS Code** may be necessary for users to manage files or troubleshoot.
+* **Installation Failures:** The project sometimes **fails to run** because users cannot successfully provide all the necessary technical requirements.
+* **Documentation Limitation:** While efforts were made to explain the process easily in the README file, the setup remains a **little difficult** in certain cases.
